@@ -1,5 +1,6 @@
 ## Hello World! 👋
 <p>
+    <img alt="counter" src="https://enjed509yvygouz.m.pipedream.net">
     <a href="https://twitter.com/Dev_Moath">
         <img alt="Twitter" src="https://img.shields.io/twitter/follow/dev_moath?style=for-the-badge">
     </a>
