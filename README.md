@@ -6,4 +6,8 @@
     </a>
 </p>
 
-My name is Moath, I'm Software Developer and Creator of [Information Systems Blog](https://infosystems.blog/)
+My name is Moath, I'm full-stack web developer and creator of [Information Systems Blog](https://infosystems.blog/)
+
+
+![](https://github.com/DevMoath/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/DevMoath/github-stats/blob/master/generated/languages.svg)
