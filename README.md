@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 <p>
-    <a href="https://twitter.com/Dev_Moath">
+    <a href="https://twitter.com/intent/follow?screen_name=dev_moath">
         <img alt="Twitter" src="https://img.shields.io/twitter/follow/dev_moath?color=blue&label=FOLLOW%20ME&style=for-the-badge">
     </a>
 </p>
